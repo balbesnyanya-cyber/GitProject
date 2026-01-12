@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nate_higgers.com/sitemap.xml
